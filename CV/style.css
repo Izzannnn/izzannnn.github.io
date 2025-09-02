@@ -1,0 +1,25 @@
+
+
+
+
+.jumbotron{
+    padding-top: 6rem ;
+    background-color: #e2edff;
+}
+
+
+#Projects{
+    background-color: #e2edff;
+}
+
+section{
+    padding-top: 5rem;
+}
+
+.download{
+     color: white;
+     padding: 10px 20px; border-radius: 5px;
+      text-decoration: none;
+}
+
+#contact {}
